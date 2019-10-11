@@ -1,0 +1,1 @@
+﻿<a align='center' href="exit.php">Выход</a>
